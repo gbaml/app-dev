@@ -1,4 +1,6 @@
 # 🕷️Spider-Man (2002)
+![spider](spiderman.jpg)
+
 Spider-Man is a 2002 American superhero film directed by Sam Raimi and written by David Koepp. Based on the Marvel Comics character Spider-Man, it is the first film in Raimi's Spider-Man trilogy (2002–2007), and stars Tobey Maguire, Willem Dafoe, Kirsten Dunst, James Franco, Cliff Robertson, Rosemary Harris, and J. K. Simmons.
 
 ---
